@@ -1,10 +1,21 @@
 {
   "name": "Hong Kong Dim Sum Matcha Dataset",
-  "version": "1.0.0",
-  "description": "Generated isolated Hong Kong dim sum images with matcha incorporated into the dish.",
-  "count": 2,
+  "version": "0.0.3",
+  "description": "Authentic Hong Kong dim sum preparations with matcha incorporated into fillings, sauces, custards, or marinades. Each image shows a unique dish in a traditional wooden bamboo steamer on a clean white background.",
+  "count": 12,
+  "release": "https://github.com/MatDayProjects/dim-sum/releases/tag/v0.0.3",
   "images": [
-    {"id": "dim_sum_matcha_0001", "file": "images/dim_sum_matcha_0001.png", "matcha": "served alongside", "wooden_steamer": true},
-    {"id": "dim_sum_matcha_0002", "file": "images/dim_sum_matcha_0002.png", "matcha": "green custard filling", "wooden_steamer": true}
+    {"id":"dim_sum_matcha_0001","dish":"har gow","description":"Crystal shrimp dumplings with matcha","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.3/dim_sum_matcha_0001.png"},
+    {"id":"dim_sum_matcha_0002","dish":"har gow","description":"Shrimp dumplings with matcha custard","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.3/dim_sum_matcha_0002.png"},
+    {"id":"dim_sum_matcha_0003","dish":"steamed beef tripe","description":"Beef tripe with matcha-infused savory soup","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.3/dim_sum_matcha_0003.png"},
+    {"id":"dim_sum_matcha_0004","dish":"steamed chicken feet","description":"Chicken feet with matcha black-bean sauce","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.3/dim_sum_matcha_0004.png"},
+    {"id":"dim_sum_matcha_0005","dish":"siu mai","description":"Pork and shrimp dumplings with matcha mousse","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.3/dim_sum_matcha_0005.png"},
+    {"id":"dim_sum_matcha_0006","dish":"har gow","description":"Crystal shrimp dumplings with matcha filling","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.3/dim_sum_matcha_0006.png"},
+    {"id":"dim_sum_matcha_0007","dish":"char siu bao","description":"Barbecue pork buns with matcha custard","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.3/dim_sum_matcha_0007.png"},
+    {"id":"dim_sum_matcha_0008","dish":"cheung fun","description":"Rice noodle rolls with matcha beef gravy","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.3/dim_sum_matcha_0008.png"},
+    {"id":"dim_sum_matcha_0009","dish":"turnip cake","description":"Turnip cake with matcha XO glaze","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.3/dim_sum_matcha_0009.png"},
+    {"id":"dim_sum_matcha_0010","dish":"egg tart","description":"Baked egg tart with matcha custard","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.3/dim_sum_matcha_0010.png"},
+    {"id":"dim_sum_matcha_0011","dish":"lotus-leaf sticky rice","description":"Sticky rice parcel with matcha savory sauce","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.3/dim_sum_matcha_0011.png"},
+    {"id":"dim_sum_matcha_0012","dish":"tofu-skin shrimp roll","description":"Shrimp rolls with matcha dipping sauce","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.3/dim_sum_matcha_0012.png"}
   ]
 }
