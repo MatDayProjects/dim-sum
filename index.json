@@ -1,9 +1,9 @@
 {
   "name": "Hong Kong Dim Sum Matcha Dataset",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Authentic Hong Kong dim sum preparations with matcha incorporated into fillings, sauces, custards, or marinades. Each image shows a unique dish in a traditional wooden bamboo steamer on a clean white background.",
-  "count": 12,
-  "release": "https://github.com/MatDayProjects/dim-sum/releases/tag/v0.0.3",
+  "count": 22,
+  "release": "https://github.com/MatDayProjects/dim-sum/releases/tag/v0.0.4",
   "images": [
     {"id":"dim_sum_matcha_0001","dish":"har gow","description":"Crystal shrimp dumplings with matcha","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.3/dim_sum_matcha_0001.png"},
     {"id":"dim_sum_matcha_0002","dish":"har gow","description":"Shrimp dumplings with matcha custard","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.3/dim_sum_matcha_0002.png"},
@@ -16,6 +16,16 @@
     {"id":"dim_sum_matcha_0009","dish":"turnip cake","description":"Turnip cake with matcha XO glaze","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.3/dim_sum_matcha_0009.png"},
     {"id":"dim_sum_matcha_0010","dish":"egg tart","description":"Baked egg tart with matcha custard","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.3/dim_sum_matcha_0010.png"},
     {"id":"dim_sum_matcha_0011","dish":"lotus-leaf sticky rice","description":"Sticky rice parcel with matcha savory sauce","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.3/dim_sum_matcha_0011.png"},
-    {"id":"dim_sum_matcha_0012","dish":"tofu-skin shrimp roll","description":"Shrimp rolls with matcha dipping sauce","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.3/dim_sum_matcha_0012.png"}
+    {"id":"dim_sum_matcha_0012","dish":"tofu-skin shrimp roll","description":"Shrimp rolls with matcha dipping sauce","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.3/dim_sum_matcha_0012.png"},
+    {"id":"dim_sum_matcha_0013","dish":"steamed pork ribs","description":"Pork ribs with matcha black-bean glaze","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.4/dim_sum_matcha_0013.png"},
+    {"id":"dim_sum_matcha_0014","dish":"steamed fish maw","description":"Fish maw stuffed with matcha shrimp mousse","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.4/dim_sum_matcha_0014.png"},
+    {"id":"dim_sum_matcha_0015","dish":"taro dumpling","description":"Taro dumplings with matcha pork filling","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.4/dim_sum_matcha_0015.png"},
+    {"id":"dim_sum_matcha_0016","dish":"pan-fried radish cake","description":"Radish cake with matcha scallion sauce","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.4/dim_sum_matcha_0016.png"},
+    {"id":"dim_sum_matcha_0017","dish":"glutinous rice dumpling","description":"Rice dumplings with matcha lotus-seed paste","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.4/dim_sum_matcha_0017.png"},
+    {"id":"dim_sum_matcha_0018","dish":"shrimp rice-paper roll","description":"Shrimp rolls with matcha soy sauce","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.4/dim_sum_matcha_0018.png"},
+    {"id":"dim_sum_matcha_0019","dish":"pork-and-chive dumpling","description":"Dumplings with matcha broth","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.4/dim_sum_matcha_0019.png"},
+    {"id":"dim_sum_matcha_0020","dish":"mini sponge cake","description":"Sponge cakes with matcha red-bean custard","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.4/dim_sum_matcha_0020.png"},
+    {"id":"dim_sum_matcha_0021","dish":"coconut bun","description":"Coconut buns with matcha coconut filling","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.4/dim_sum_matcha_0021.png"},
+    {"id":"dim_sum_matcha_0022","dish":"rice noodle shrimp dumpling","description":"Shrimp dumplings with matcha chili oil","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.4/dim_sum_matcha_0022.png"}
   ]
 }
