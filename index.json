@@ -1,0 +1,10 @@
+{
+  "name": "Hong Kong Dim Sum Matcha Dataset",
+  "version": "1.0.0",
+  "description": "Generated isolated Hong Kong dim sum images with matcha incorporated into the dish.",
+  "count": 2,
+  "images": [
+    {"id": "dim_sum_matcha_0001", "file": "images/dim_sum_matcha_0001.png", "matcha": "served alongside", "wooden_steamer": true},
+    {"id": "dim_sum_matcha_0002", "file": "images/dim_sum_matcha_0002.png", "matcha": "green custard filling", "wooden_steamer": true}
+  ]
+}
