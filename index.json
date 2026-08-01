@@ -1,9 +1,9 @@
 ﻿{
     "name":  "Hong Kong Dim Sum Matcha Dataset",
-    "version":  "0.0.7",
+    "version":  "0.0.8",
     "description":  "Authentic Hong Kong dim sum preparations with matcha incorporated into fillings, sauces, custards, or marinades. Each image shows a unique dish in a traditional wooden bamboo steamer on a clean white background.",
-    "count":  92,
-    "release":  "https://github.com/MatDayProjects/dim-sum/releases/tag/v0.0.7",
+    "count":  142,
+    "release":  "https://github.com/MatDayProjects/dim-sum/releases/tag/v0.0.8",
     "images":  [
                    {
                        "id":  "dim_sum_matcha_0001",
@@ -556,6 +556,306 @@
                        "dish":  "matcha pork dumpling",
                        "description":  "matcha pork dumpling with matcha integrated into filling or sauce",
                        "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.7/dim_sum_matcha_0092.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0093",
+                       "dish":  "pork shrimp dumpling",
+                       "description":  "pork shrimp dumpling with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0093.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0094",
+                       "dish":  "fish maw roll",
+                       "description":  "fish maw roll with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0094.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0095",
+                       "dish":  "beef tendon rice roll",
+                       "description":  "beef tendon rice roll with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0095.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0096",
+                       "dish":  "shrimp pea dumpling",
+                       "description":  "shrimp pea dumpling with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0096.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0097",
+                       "dish":  "pork belly bun",
+                       "description":  "pork belly bun with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0097.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0098",
+                       "dish":  "crab dumpling",
+                       "description":  "crab dumpling with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0098.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0099",
+                       "dish":  "duck rice parcel",
+                       "description":  "duck rice parcel with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0099.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0100",
+                       "dish":  "tofu skin roll",
+                       "description":  "tofu skin roll with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0100.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0101",
+                       "dish":  "pork liver roll",
+                       "description":  "pork liver roll with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0101.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0102",
+                       "dish":  "taro bun",
+                       "description":  "taro bun with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0102.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0103",
+                       "dish":  "pork shrimp siu mai",
+                       "description":  "pork shrimp siu mai with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0103.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0104",
+                       "dish":  "beef tripe",
+                       "description":  "beef tripe with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0104.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0105",
+                       "dish":  "chicken feet",
+                       "description":  "chicken feet with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0105.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0106",
+                       "dish":  "lotus root dumpling",
+                       "description":  "lotus root dumpling with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0106.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0107",
+                       "dish":  "asparagus shrimp dumpling",
+                       "description":  "asparagus shrimp dumpling with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0107.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0108",
+                       "dish":  "red bean bun",
+                       "description":  "red bean bun with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0108.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0109",
+                       "dish":  "turnip cake",
+                       "description":  "turnip cake with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0109.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0110",
+                       "dish":  "pork ribs",
+                       "description":  "pork ribs with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0110.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0111",
+                       "dish":  "fish dumpling",
+                       "description":  "fish dumpling with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0111.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0112",
+                       "dish":  "sesame roll",
+                       "description":  "sesame roll with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0112.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0113",
+                       "dish":  "pork shrimp dumpling",
+                       "description":  "pork shrimp dumpling with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0113.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0114",
+                       "dish":  "abalone rice roll",
+                       "description":  "abalone rice roll with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0114.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0115",
+                       "dish":  "duck bamboo parcel",
+                       "description":  "duck bamboo parcel with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0115.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0116",
+                       "dish":  "crab tofu dumpling",
+                       "description":  "crab tofu dumpling with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0116.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0117",
+                       "dish":  "beef tendon bun",
+                       "description":  "beef tendon bun with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0117.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0118",
+                       "dish":  "shrimp water chestnut roll",
+                       "description":  "shrimp water chestnut roll with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0118.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0119",
+                       "dish":  "pork dumpling",
+                       "description":  "pork dumpling with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0119.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0120",
+                       "dish":  "shrimp dumpling",
+                       "description":  "shrimp dumpling with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0120.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0121",
+                       "dish":  "beef rice roll",
+                       "description":  "beef rice roll with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0121.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0122",
+                       "dish":  "chicken mushroom bun",
+                       "description":  "chicken mushroom bun with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0122.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0123",
+                       "dish":  "pork garlic chive dumpling",
+                       "description":  "pork garlic chive dumpling with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0123.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0124",
+                       "dish":  "scallop rice roll",
+                       "description":  "scallop rice roll with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0124.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0125",
+                       "dish":  "shrimp ball",
+                       "description":  "shrimp ball with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0125.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0126",
+                       "dish":  "pork taro bun",
+                       "description":  "pork taro bun with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0126.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0127",
+                       "dish":  "fish dumpling",
+                       "description":  "fish dumpling with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0127.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0128",
+                       "dish":  "vegetable rice roll",
+                       "description":  "vegetable rice roll with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0128.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0129",
+                       "dish":  "steamed crab roll",
+                       "description":  "steamed crab roll with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0129.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0130",
+                       "dish":  "steamed duck dumpling",
+                       "description":  "steamed duck dumpling with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0130.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0131",
+                       "dish":  "steamed beef bun",
+                       "description":  "steamed beef bun with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0131.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0132",
+                       "dish":  "steamed shrimp parcel",
+                       "description":  "steamed shrimp parcel with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0132.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0133",
+                       "dish":  "steamed pork roll",
+                       "description":  "steamed pork roll with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0133.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0134",
+                       "dish":  "steamed chicken dumpling",
+                       "description":  "steamed chicken dumpling with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0134.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0135",
+                       "dish":  "steamed scallop bun",
+                       "description":  "steamed scallop bun with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0135.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0136",
+                       "dish":  "steamed lobster roll",
+                       "description":  "steamed lobster roll with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0136.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0137",
+                       "dish":  "steamed taro dumpling",
+                       "description":  "steamed taro dumpling with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0137.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0138",
+                       "dish":  "steamed vegetable parcel",
+                       "description":  "steamed vegetable parcel with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0138.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0139",
+                       "dish":  "steamed mushroom bun",
+                       "description":  "steamed mushroom bun with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0139.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0140",
+                       "dish":  "steamed squid roll",
+                       "description":  "steamed squid roll with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0140.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0141",
+                       "dish":  "steamed abalone dumpling",
+                       "description":  "steamed abalone dumpling with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0141.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0142",
+                       "dish":  "steamed rice cake",
+                       "description":  "steamed rice cake with matcha integrated into filling, broth, or sauce",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.8/dim_sum_matcha_0142.png"
                    }
                ]
 }
