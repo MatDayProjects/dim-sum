@@ -1,9 +1,9 @@
 {
   "name": "Hong Kong Dim Sum Matcha Dataset",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Authentic Hong Kong dim sum preparations with matcha incorporated into fillings, sauces, custards, or marinades. Each image shows a unique dish in a traditional wooden bamboo steamer on a clean white background.",
-  "count": 22,
-  "release": "https://github.com/MatDayProjects/dim-sum/releases/tag/v0.0.4",
+  "count": 32,
+  "release": "https://github.com/MatDayProjects/dim-sum/releases/tag/v0.0.5",
   "images": [
     {"id":"dim_sum_matcha_0001","dish":"har gow","description":"Crystal shrimp dumplings with matcha","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.3/dim_sum_matcha_0001.png"},
     {"id":"dim_sum_matcha_0002","dish":"har gow","description":"Shrimp dumplings with matcha custard","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.3/dim_sum_matcha_0002.png"},
@@ -26,6 +26,16 @@
     {"id":"dim_sum_matcha_0019","dish":"pork-and-chive dumpling","description":"Dumplings with matcha broth","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.4/dim_sum_matcha_0019.png"},
     {"id":"dim_sum_matcha_0020","dish":"mini sponge cake","description":"Sponge cakes with matcha red-bean custard","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.4/dim_sum_matcha_0020.png"},
     {"id":"dim_sum_matcha_0021","dish":"coconut bun","description":"Coconut buns with matcha coconut filling","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.4/dim_sum_matcha_0021.png"},
-    {"id":"dim_sum_matcha_0022","dish":"rice noodle shrimp dumpling","description":"Shrimp dumplings with matcha chili oil","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.4/dim_sum_matcha_0022.png"}
+    {"id":"dim_sum_matcha_0022","dish":"rice noodle shrimp dumpling","description":"Shrimp dumplings with matcha chili oil","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.4/dim_sum_matcha_0022.png"},
+    {"id":"dim_sum_matcha_0023","dish":"steamed pork belly","description":"Pork belly with matcha mustard-green sauce","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.5/dim_sum_matcha_0023.png"},
+    {"id":"dim_sum_matcha_0024","dish":"shrimp bamboo-shoot dumpling","description":"Dumplings with matcha ginger broth","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.5/dim_sum_matcha_0024.png"},
+    {"id":"dim_sum_matcha_0025","dish":"duck dumpling","description":"Duck dumplings with matcha five-spice glaze","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.5/dim_sum_matcha_0025.png"},
+    {"id":"dim_sum_matcha_0026","dish":"mushroom vegetable dumpling","description":"Vegetable dumplings with matcha sesame filling","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.5/dim_sum_matcha_0026.png"},
+    {"id":"dim_sum_matcha_0027","dish":"steamed pork meatball","description":"Pork meatballs with matcha tangerine-peel sauce","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.5/dim_sum_matcha_0027.png"},
+    {"id":"dim_sum_matcha_0028","dish":"steamed squid","description":"Squid with matcha garlic sauce","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.5/dim_sum_matcha_0028.png"},
+    {"id":"dim_sum_matcha_0029","dish":"scallop dumpling","description":"Scallop dumplings with matcha cream","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.5/dim_sum_matcha_0029.png"},
+    {"id":"dim_sum_matcha_0030","dish":"steamed pumpkin cake","description":"Pumpkin cakes with matcha red-bean filling","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.5/dim_sum_matcha_0030.png"},
+    {"id":"dim_sum_matcha_0031","dish":"water chestnut cake","description":"Water chestnut cakes with matcha syrup","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.5/dim_sum_matcha_0031.png"},
+    {"id":"dim_sum_matcha_0032","dish":"beef tendon dumpling","description":"Beef tendon dumplings with matcha chili broth","url":"https://github.com/MatDayProjects/dim-sum/releases/download/v0.0.5/dim_sum_matcha_0032.png"}
   ]
 }
