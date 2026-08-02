@@ -1,9 +1,9 @@
 ﻿{
     "name":  "Hong Kong Dim Sum Matcha Dataset",
-    "version":  "0.1.43",
+    "version":  "0.1.44",
     "description":  "Authentic Hong Kong dim sum preparations with matcha incorporated into fillings, sauces, custards, or marinades. Each image shows a unique dish in a traditional wooden bamboo steamer on a clean white background.",
-    "count":  992,
-    "release":  "v0.1.43",
+    "count":  1000,
+    "release":  "v0.1.44",
     "images":  [
                    {
                        "id":  "dim_sum_matcha_0001",
@@ -5956,6 +5956,54 @@
                        "dish":  "Matcha scallop dumpling",
                        "description":  "Authentic Hong Kong dim sum with matcha integrated into the filling or sauce, served in a bamboo steamer.",
                        "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.1.43/dim_sum_matcha_0992.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0993",
+                       "dish":  "Matcha shrimp har gow",
+                       "description":  "Authentic Hong Kong dim sum with matcha integrated into the filling or sauce, served in a bamboo steamer.",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.1.44/dim_sum_matcha_0993.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0994",
+                       "dish":  "Matcha char siu bao",
+                       "description":  "Authentic Hong Kong dim sum with matcha integrated into the filling or sauce, served in a bamboo steamer.",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.1.44/dim_sum_matcha_0994.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0995",
+                       "dish":  "Matcha steamed beef tripe",
+                       "description":  "Authentic Hong Kong dim sum with matcha integrated into the filling or sauce, served in a bamboo steamer.",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.1.44/dim_sum_matcha_0995.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0996",
+                       "dish":  "Matcha pork siu mai",
+                       "description":  "Authentic Hong Kong dim sum with matcha integrated into the filling or sauce, served in a bamboo steamer.",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.1.44/dim_sum_matcha_0996.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0997",
+                       "dish":  "Matcha shrimp cheung fun",
+                       "description":  "Authentic Hong Kong dim sum with matcha integrated into the filling or sauce, served in a bamboo steamer.",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.1.44/dim_sum_matcha_0997.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0998",
+                       "dish":  "Matcha egg custard tart",
+                       "description":  "Authentic Hong Kong dim sum with matcha integrated into the filling or sauce, served in a bamboo steamer.",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.1.44/dim_sum_matcha_0998.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0999",
+                       "dish":  "Matcha phoenix claws",
+                       "description":  "Authentic Hong Kong dim sum with matcha integrated into the filling or sauce, served in a bamboo steamer.",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.1.44/dim_sum_matcha_0999.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_1000",
+                       "dish":  "Matcha lo mai gai",
+                       "description":  "Authentic Hong Kong dim sum with matcha integrated into the filling or sauce, served in a bamboo steamer.",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.1.44/dim_sum_matcha_1000.png"
                    }
                ]
 }
