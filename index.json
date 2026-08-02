@@ -1,9 +1,9 @@
 ﻿{
     "name":  "Hong Kong Dim Sum Matcha Dataset",
-    "version":  "0.1.8",
+    "version":  "0.1.9",
     "description":  "Authentic Hong Kong dim sum preparations with matcha incorporated into fillings, sauces, custards, or marinades. Each image shows a unique dish in a traditional wooden bamboo steamer on a clean white background.",
-    "count":  642,
-    "release":  "v0.1.8",
+    "count":  652,
+    "release":  "v0.1.9",
     "images":  [
                    {
                        "id":  "dim_sum_matcha_0001",
@@ -3856,6 +3856,66 @@
                        "dish":  "Matcha scallop dumpling",
                        "description":  "Matcha scallop dumpling with matcha integrated into the filling or sauce, authentically steamed in a bamboo dim sum basket.",
                        "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.1.8/dim_sum_matcha_0642.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0643",
+                       "dish":  "Matcha shrimp har gow",
+                       "description":  "Matcha shrimp har gow with matcha integrated into the filling or sauce, authentically prepared in a bamboo dim sum basket.",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.1.9/dim_sum_matcha_0643.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0644",
+                       "dish":  "Matcha char siu bao",
+                       "description":  "Matcha char siu bao with matcha integrated into the filling or sauce, authentically prepared in a bamboo dim sum basket.",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.1.9/dim_sum_matcha_0644.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0645",
+                       "dish":  "Matcha steamed beef tripe",
+                       "description":  "Matcha steamed beef tripe with matcha integrated into the filling or sauce, authentically prepared in a bamboo dim sum basket.",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.1.9/dim_sum_matcha_0645.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0646",
+                       "dish":  "Matcha pork siu mai",
+                       "description":  "Matcha pork siu mai with matcha integrated into the filling or sauce, authentically prepared in a bamboo dim sum basket.",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.1.9/dim_sum_matcha_0646.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0647",
+                       "dish":  "Matcha shrimp cheung fun",
+                       "description":  "Matcha shrimp cheung fun with matcha integrated into the filling or sauce, authentically prepared in a bamboo dim sum basket.",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.1.9/dim_sum_matcha_0647.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0648",
+                       "dish":  "Matcha egg custard tart",
+                       "description":  "Matcha egg custard tart with matcha integrated into the filling or sauce, authentically prepared in a bamboo dim sum basket.",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.1.9/dim_sum_matcha_0648.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0649",
+                       "dish":  "Matcha phoenix claws",
+                       "description":  "Matcha phoenix claws with matcha integrated into the filling or sauce, authentically prepared in a bamboo dim sum basket.",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.1.9/dim_sum_matcha_0649.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0650",
+                       "dish":  "Matcha lo mai gai",
+                       "description":  "Matcha lo mai gai with matcha integrated into the filling or sauce, authentically prepared in a bamboo dim sum basket.",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.1.9/dim_sum_matcha_0650.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0651",
+                       "dish":  "Matcha tofu skin shrimp roll",
+                       "description":  "Matcha tofu skin shrimp roll with matcha integrated into the filling or sauce, authentically prepared in a bamboo dim sum basket.",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.1.9/dim_sum_matcha_0651.png"
+                   },
+                   {
+                       "id":  "dim_sum_matcha_0652",
+                       "dish":  "Matcha scallop dumpling",
+                       "description":  "Matcha scallop dumpling with matcha integrated into the filling or sauce, authentically prepared in a bamboo dim sum basket.",
+                       "url":  "https://github.com/MatDayProjects/dim-sum/releases/download/v0.1.9/dim_sum_matcha_0652.png"
                    }
                ]
 }
